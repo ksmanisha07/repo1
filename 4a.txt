@@ -1,3 +1,8 @@
 this is first line 
+ HEAD
 this is second
 git is just boring
+
+this is second line
+this is third line 
+ de57ae9 (committing 3rd line in fb1 branch)
